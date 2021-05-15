@@ -1,1 +1,4 @@
-# 
+#
+The LISA model 🤖 is a reasonably priced fully simulated quadruped robot developed using pyBullet 🐍 that can be controlled with remote bluetooth controllers 🎮 like PS4 or XBOX can be used in both the rough and 🌳 tough terrain environments. The Robot is used to monitor the terrain environments where humans are unable to pass through and handle various works accordingly. The Gait patterns implemented here depict the original beings 🐕 to mimic them. The Improved stability provides the robot to wake up immediately after a dash or a fall.
+
+The Robot 🤖 can be extended to use in exacavation sites, monitoring areas, dangerous terrains, military bombings areas. The Interfaced Webcam provides the feed of the surroundings to the owner several feet away. The Further software improvements can provide features like facial recognition 🌝, object detection 🏀 ,  intruder detections. 👏 👏
