@@ -28,6 +28,6 @@ The Robot 🤖 can be extended to use in exacavation sites, monitoring areas �
 
 
 
-### *** Contributed by [Aryan Kumar](https://github.com/aryan-kn), [VamshiTelugu](https://github.com/VamshiTelugu), [Harisathwik](https://github.com/Harisathwik), Raj Kumar
+### *** Contributed by [Aryan Kumar](https://github.com/aryan-kn), [VamshiTelugu](https://github.com/VamshiTelugu), [Harisathwik](https://github.com/Harisathwik), [Raj Kumar](https://github.com/AsadiRajkumar)
 
 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 
