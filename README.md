@@ -12,9 +12,16 @@
 
 
 ## 3. Additive Manufactured Parts and Tools
+
+The Choice of materials for the robot depends on your dimensions 📏, pricing 💰, load 🏋️ of the robot 🤖, size and capacity of your motors and other factors. These are our additive manufactured parts before cleaning.
+
+
 ![1](https://user-images.githubusercontent.com/84219813/164978063-c334997e-d4b6-437b-91dc-f8bd9f62590f.jpeg)
 
 ## 4. Assemble of Parts
+
+At this stage, the parts are cleaned with salt paper, fixed with the ball bearings, servo motors and some screws. Test out the individual part before proceeding to next stage.
+
 ![6](https://user-images.githubusercontent.com/84219813/164978198-4c5c9451-bb44-445f-88b5-a576c48aec0d.jpeg)
 ![8](https://user-images.githubusercontent.com/84219813/164978200-4f657ada-f1ba-46c2-be72-cd0f892d2adf.jpeg)
 ![10](https://user-images.githubusercontent.com/84219813/164978203-969627fd-e35b-4d9f-84f1-a3dfe5b3dd1a.jpeg)
@@ -28,6 +35,6 @@ The Robot 🤖 can be extended to use in exacavation sites, monitoring areas �
 
 
 
-### *** Contributed by [Aryan Kumar](https://github.com/aryan-kn), [VamshiTelugu](https://github.com/VamshiTelugu), [Harisathwik](https://github.com/Harisathwik), [Raj Kumar](https://github.com/AsadiRajkumar)
+### *** Contributed by [Aryan Kumar](https://github.com/aryan-kn), [Vamshi](https://github.com/VamshiTelugu), [Harisathwik](https://github.com/Harisathwik), [Raj Kumar](https://github.com/AsadiRajkumar)
 
 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 👏 
