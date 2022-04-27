@@ -19,14 +19,14 @@ The Assembled drawings are later being rendered with Pi and other components.
 
 ## 3. Additive Manufactured Parts and Tools 🧰
 
-The Choice of materials for the robot depends on your dimensions 📏, pricing 💰, load 🏋️ of the robot 🤖, size and capacity of your motors and other factors. These are our additive manufactured parts before cleaning.
+The choice of materials for the robot depends on your dimensions 📏, pricing 💰, load 🏋️ of the robot 🤖, size and capacity of your motors, and other factors. These are our additive manufactured parts before cleaning.
 
 
 ![1](https://user-images.githubusercontent.com/84219813/164978063-c334997e-d4b6-437b-91dc-f8bd9f62590f.jpeg)
 
 ## 4. Assemble of Parts 📦
 
-At this stage, the parts are cleaned with salt paper, fixed with the ball bearings, servo motors and some screws 🪛 . Test out the individual part before proceeding to next stage.
+At this stage, the parts are cleaned with salt paper, fixed with the ball bearings, servo motors, and some screws 🪛 . Test out the individual part before proceeding to the next stage.
 
 ![6](https://user-images.githubusercontent.com/84219813/164978198-4c5c9451-bb44-445f-88b5-a576c48aec0d.jpeg)
 ![8](https://user-images.githubusercontent.com/84219813/164978200-4f657ada-f1ba-46c2-be72-cd0f892d2adf.jpeg)
@@ -35,7 +35,7 @@ At this stage, the parts are cleaned with salt paper, fixed with the ball bearin
 ## 5. Simulation of LISA 🤖
 
 
-The LISA model 🤖 is a reasonably priced fully simulated quadruped robot developed using pyBullet 🐍 that can be controlled with remote bluetooth controllers 🎮 like PS4 or XBOX can be used in both the rough and 🌳 tough terrain environments. The Robot is used to monitor the terrain environments where humans are unable to pass through and handle various works accordingly. The Gait patterns implemented here depict the original beings 🐕 to mimic them. The Improved stability provides the robot to wake up immediately after a dash or a fall.
+The LISA model 🤖 is a reasonably priced fully simulated quadruped robot developed using pyBullet 🐍 that can be controlled with remote Bluetooth controllers 🎮 like PS4 or XBOX can be used in both the rough and 🌳 tough terrain environments. The Robot is used to monitor the terrain environments where humans are unable to pass through and handle various works accordingly. The Gait patterns implemented here depict the original beings 🐕 to mimic them. Improved stability provides the robot to wake up immediately after a dash or a fall.
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/84219813/165350903-0930f560-9c14-43a8-be71-2a90caea347d.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/84219813/165350952-917adecb-f0f2-428d-a6e2-c54c640df57f.png)
@@ -54,8 +54,7 @@ Special features like motion simulation, cam feed recording 🔴, snapshots 🖼
 ![diff-overlay](https://user-images.githubusercontent.com/84219813/165355225-993a4885-3554-44fa-b5f3-91776851e28d.jpg)
 
 
-The Robot 🤖 can be extended to use in exacavation sites, monitoring areas 🖥️. The Interfaced Webcam provides the feed of the surroundings to the owner several feet away. The Further software improvements can provide features like facial recognition 🌝, object detection 🏀,  intruder detections. 
-
+The Robot 🤖 can be extended to use in excavation sites, and monitoring areas 🖥️. The Interfaced Webcam provides the feed of the surroundings to the owner several feet away. Further software improvements can provide features like facial recognition 🌝, object detection 🏀, and intruder detection. 
 
 
 ### *** Contributed by [Aryan Kumar](https://github.com/aryan-kn), [Vamshi](https://github.com/VamshiTelugu), [Harisathwik](https://github.com/Harisathwik), [Raj Kumar](https://github.com/AsadiRajkumar)
